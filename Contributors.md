@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 - [Muhammad Qazi] (https://github.com/muhammadqazi)
+- [Alasdair Kite] (https://github.com/alasdairkite1)
 - [Raden Salman] (https://github.com/RadenSalman)
 - [Tom A] (https://github.com/us3rT0m/)
 - [Lauro Bernardo Jr] (https://github.com/lbernardojr)
